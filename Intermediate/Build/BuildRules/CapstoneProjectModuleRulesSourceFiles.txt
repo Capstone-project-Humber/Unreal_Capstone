@@ -1,0 +1,3 @@
+C:\Users\carlo\Desktop\GitHubUnreal\Unreal_Capstone\CapstoneProject\Source\CapstoneProject\CapstoneProject.Build.cs
+C:\Users\carlo\Desktop\GitHubUnreal\Unreal_Capstone\CapstoneProject\Source\CapstoneProject.Target.cs
+C:\Users\carlo\Desktop\GitHubUnreal\Unreal_Capstone\CapstoneProject\Source\CapstoneProjectEditor.Target.cs
